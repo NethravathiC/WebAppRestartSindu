@@ -15,6 +15,8 @@
             else
                 args.IsValid = false;
         }
+
+        //Testing message
     </script>
 </head>
 <body>
